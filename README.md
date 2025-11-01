@@ -17,7 +17,7 @@ Designed for quick administrative use on Linux servers.
 
 ## 📦 Installation
 
-Clone the repository and make the script executable:
+Run the following commands in order in the command line:
 
 ```bash
 wget https://raw.githubusercontent.com/Emmanuel-RCL/get_phpmyadmin_info/main/get_phpmyadmin_info.sh
