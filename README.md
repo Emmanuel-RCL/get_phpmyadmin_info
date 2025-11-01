@@ -1,4 +1,4 @@
-# 🧩 get_phpmyadmin_info.sh
+# 🧩 Retrieve phpMyAdmin Credentials Script
 
 A lightweight Bash utility to **extract phpMyAdmin credentials** from a `.env` file and print a ready-to-use login URL.  
 Designed for quick administrative use on Linux servers.
